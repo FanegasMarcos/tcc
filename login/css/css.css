@@ -1,0 +1,16 @@
+#telalogin{
+    width: 350px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 1px 5px 30px rgb(3, 3, 3);
+    opacity: 0.9;
+
+}
+#fundo{
+    background-color: rgb(32, 139, 139);
+    /* background-image:url(https://i.pinimg.com/originals/af/9e/3d/af9e3db9edc095f6f941473def765b13.gif) ;
+    background-attachment: fixed;
+    background-size: cover; */
+}
