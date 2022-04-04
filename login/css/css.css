@@ -9,6 +9,7 @@
 
 }
 
+
 #fundo{
     background-color: rgb(255, 255, 255);
     background-image:url(../img/certa.png) ;
@@ -16,3 +17,70 @@
     /* background-attachment: fixed;
     background-size: cover; */
 } 
+
+#menu{
+    background-color: rgb(23, 70, 92);
+    
+    vertical-align: top;
+    width: 580px;
+    height: 100%;
+    right: 45%;
+    display: inline-block;     
+    margin-top: -25px; 
+}
+
+#sairforleft{
+    position: relative;
+    left: 89%;
+    color: black;
+
+}
+.optionmenu{
+    color:black;
+    
+}
+
+.itemoptionmenu{
+    position: relative;
+    left: 25%;
+    margin-top: -25px;
+    height: auto;
+}
+.contents{
+    display: table;
+}
+
+.image_menu{
+    display: table-cell;
+    float: left;
+    margin-left: 25px;
+}
+
+.option_menu{
+    display: table-cell;
+    float: left;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.option_menu2{
+    display: table-cell;
+    float: left;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 15px;
+   
+}
+
+
+#teacherpng{
+    display: table-cell;
+    max-width: 85px; 
+    max-height: 100px;
+}
+/* 
+#optionmenu{
+    display: table-cell;
+    top: 50%;
+    left: 50%;
+}  */
