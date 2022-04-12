@@ -8,11 +8,6 @@
     /* opacity: 0.9; */
 
 }
-#logo{
-    width: 175px;
-    height: 150px;
-    margin-left: 50%;
-}
 
 
 #fundo{
@@ -28,38 +23,18 @@
     float: left;
     top: 0;
     left: 0;
-    padding-bottom: 1.1%;
     
     vertical-align: top;
     width: 500px;
     height: 100%;
     display: inline-block; 
-    display: fixed;
-}
-#calendario{
-    
-}
-#blocovazio{
-height: 29px;
-}
-#fileinput{
-    padding: 20px 10px;
-    width: 200px;
-    background: rgba(255, 255, 255, 0);
-    color: #FFF;
-    text-transform: uppercase;
-    display: block;
-    margin-top: 10px;
-    transition: .5s;
-
-}
-   
+    bottom: 0%;
     
        
-
+}
 #t1{
-    left : 550px;
-    position:fixed;
+    position:relative;
+    left: 100px;
 
   
 }
@@ -67,8 +42,8 @@ height: 29px;
     display: table-cell;
     float: left;
     width: 300px;
-    height: 45px;
-    margin-top: 40px;
+    height: 60px;
+    margin-top: 50px;
     margin-left: 15px;
 
 }
@@ -76,56 +51,9 @@ height: 29px;
     display: table-cell;
     float: left;
     width: 300px;
-    height: 45px;
-    margin-top: 20px;
-    margin-left: 15px;
-
-}
-#t2-esquerda{
-    display: table-cell;
-    float: left;
-    width: 300px;
-    height: 35spx;
-   
-    margin-top: 15px;
-    margin-left: 20px;
-
-}
-#t2esquerda{
-    display: table-cell;
-    float: left;
-    width: 300px;
-    height: 35spx;
-   
+    height: 60px;
     margin-top: 30px;
     margin-left: 15px;
-
-}
-#t2direita{
-    display: table-cell;
-    float: left;
-    width: 300px;
-    height: 35px;
-    margin-top: 12.5px;
-    margin-left: 20px;
-
-}
-#btesquerda{
-    display: table-cell;
-    float: left;
-    width: 200px;
-    height: 45px;
-    margin-top: 40px;
-    margin-left: 15px;
-
-}
-#btdireita{
-    display: table-cell;
-    float: left;
-    width: 200px;
-    height: 45px;
-    margin-top: 20px;
-    margin-left:75%;
 
 }
 
@@ -141,7 +69,6 @@ height: 29px;
 
 .optionmenu{
     color:black;
-    font-size: 28px;
 }
 
 .itemoptionmenu{
@@ -149,7 +76,6 @@ height: 29px;
     left: 25%;
     margin-top: -25px;
     height: auto;
-    font-size: 25px;
 }
 .contents{
     display: table;
@@ -170,13 +96,20 @@ height: 29px;
     margin-top: 20px;
     margin-left: 15px;
 }
-
+.option_menu2{
+    display: table-cell;
+    float: left;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 15px;
+   
+}
 
 
 #teacherpng{
     display: table-cell;
-    max-width: 50px; 
-    max-height: 72px;
+    max-width: 85px; 
+    max-height: 100px;
 }
 /* 
 #optionmenu{

@@ -1,0 +1,34 @@
+#menu{
+    background-color: blue;
+   
+    
+   
+}
+#t1{
+    background-color: red;
+    width: 450px;
+
+}
+#t2{
+    background-color: rgb(14, 35, 231);
+    display: inline;
+    position:absolute;
+   
+
+}
+
+.imagemmenu{
+    display: table-cell;
+    float: left;
+}
+.textomenu{
+    display: table-cell;
+    float: left;
+    width: 300px;
+}
+#teacherpng{
+    display: table-cell;
+    max-width: 85px; 
+    max-height: 100px;
+}
+
