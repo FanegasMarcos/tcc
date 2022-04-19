@@ -6,3 +6,4 @@ function mostrarOcultarSenha(){
         password.type="password";
     }
 }
+

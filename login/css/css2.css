@@ -1,34 +1,46 @@
-#menu{
-    background-color: blue;
-   
-    
-   
+*{
+    padding: 0;
+    margin: 0;
 }
-#t1{
-    background-color: red;
-    width: 450px;
+.conteudo{
+    top:90px;
+    left: 85%;
+    margin: 0 0 0 -500px;
+    position: absolute;
+    width: 500px ;
+    background: red;
+    height: 40px; 
+}
+#teste{
+    position: absolute;
+    left: 50%;
+    top: 100px;
+    float: left;
+
 
 }
-#t2{
-    background-color: rgb(14, 35, 231);
-    display: inline;
-    position:absolute;
-   
-
-}
-
-.imagemmenu{
+#btnesquerda{
     display: table-cell;
     float: left;
+    width: 200px;
+    height: 45px;
+    margin-top: 40px;
+    margin-right: 25px;
+    position:relative;  
+
 }
-.textomenu{
+#btndireita{
     display: table-cell;
     float: left;
-    width: 300px;
-}
-#teacherpng{
-    display: table-cell;
-    max-width: 85px; 
-    max-height: 100px;
+    width: 200px;
+    height: 45px;
+    margin-top: 20px;
+    margin-left:400px;
+
 }
 
+
+.table-style .today {background: #2A3F54; color: #ffffff;}
+.table-style th:nth-of-type(7),td:nth-of-type(7) {color: blue;}
+.table-style th:nth-of-type(1),td:nth-of-type(1) {color: red;}
+.table-style tr:first-child th{background-color:#F6F6F6; text-align:center; font-size: 15px;}
