@@ -11,11 +11,14 @@
     background: red;
     height: 40px; 
 }
-#teste{
+#partcalendar{
     position: absolute;
-    left: 50%;
-    top: 100px;
+    left: 45%;
+    top: 15px;
     float: left;
+    width: auto;
+    height: auto;
+    
 
 
 }
@@ -35,6 +38,42 @@
     width: 200px;
     height: 45px;
     margin-top: 20px;
+    margin-left:400px;
+
+}
+#totalesquerda{
+    display: table-cell;
+    float: left;
+    height: 45px;
+    
+    left: 25px;
+    position:relative;  
+
+}
+#totalProfessor{
+    display: table-cell;
+    float: left;
+    height: 45px;
+    top: 50px;
+    right: 150px;
+    position:relative;  
+
+}
+#totaldireita{
+    display: table-cell;
+    float: left;
+    height: 45px;
+    
+    left: 50px;
+    position:relative; 
+
+}
+#totalAluno{
+    display: table-cell;
+    float: left;
+  
+    height: 45px;
+    bottom: 25px;
     margin-left:400px;
 
 }
