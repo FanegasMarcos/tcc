@@ -11,6 +11,7 @@
     background: red;
     height: 40px; 
 }
+
 #partcalendar{
     position: absolute;
     left: 45%;
@@ -18,9 +19,6 @@
     float: left;
     width: auto;
     height: auto;
-    
-
-
 }
 #btnesquerda{
     display: table-cell;

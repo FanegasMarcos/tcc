@@ -1,0 +1,77 @@
+#teste{
+    left: 525px;
+    position: absolute;
+    display: inline-block;
+}
+#testet1{
+    float: left;
+}
+#fotoAluno{
+    height: 250px;
+    width: 250px;
+}
+.ladoEsquerdo{
+    width: 400px;
+    left: 60%;
+}
+#centroimg{
+    margin-left: 50px;
+}
+#ladoDireito{
+    margin-left: 450px;
+    margin-top: -400px;
+    width: 400px;
+
+}
+#respostaE{
+    /* display: table-cell; */
+    /* float: left; */
+   margin-top: -35px;
+   margin-left: 125px;
+   
+}
+#respostaE1{
+    /* display: table-cell; */
+    /* float: left; */
+   margin-top: -35px;
+   margin-left: 140px;
+   
+}
+#respostaE2{
+    /* display: table-cell; */
+    /* float: left; */
+   margin-top: -35px;
+   margin-left: 170px;
+   
+}
+#respostaD{
+    /* display: table-cell; */
+    /* float: left; */
+   margin-top: -35px;
+   margin-left: 100px;
+   
+}
+#respostaD1{
+    /* display: table-cell; */
+    /* float: left; */
+   margin-top: -35px;
+   margin-left: 100px;
+   
+}
+#respostaD2{
+    /* display: table-cell; */
+    /* float: left; */
+   margin-top: -35px;
+   margin-left: 100px;
+   
+}
+
+/* #t1direita{
+    display: table-cell;
+    float: left;
+    width: 300px;
+    height: 45px;
+    margin-top: 20px;
+    margin-left: 15px;
+
+} */
